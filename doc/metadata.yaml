@@ -10,6 +10,7 @@ images:
 - doc/img/GB01A_top_small.jpg
 - doc/img/GB01A_QRcode.png
 mark: 50
+status: 0
 tags:
 - mlab
 - mlab-module
