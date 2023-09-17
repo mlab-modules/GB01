@@ -1,4 +1,4 @@
-description: null
+description: Provide FR wideband gain dependend on type of MMIC populated on the board.
 github_branch: GB01A
 github_repo: GB01
 github_url: https://github.com/mlab-modules/GB01
